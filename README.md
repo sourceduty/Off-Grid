@@ -19,3 +19,5 @@ Also, [Fuel Cell Theory](https://chatgpt.com/g/g-685895cf96fc8191944051bc2cb3405
 [Private Island](https://github.com/sourceduty/Private_Island)
 <br>
 [Homelab Mancave](https://github.com/sourceduty/Homelab_Mancave)
+<br>
+[Microbial Fuel Cell](https://chatgpt.com/g/g-677d28879cd08191becc4867877abd51-microbial-fuel-cell-mfc)
