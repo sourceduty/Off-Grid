@@ -23,3 +23,5 @@ Also, [Fuel Cell Theory](https://chatgpt.com/g/g-685895cf96fc8191944051bc2cb3405
 [Microbial Fuel Cell](https://chatgpt.com/g/g-677d28879cd08191becc4867877abd51-microbial-fuel-cell-mfc)
 <br>
 [Turbine Turbomachine](https://chatgpt.com/g/g-6792c5d596908191a0017b6d4b7d336d-turbine-turbomachine)
+<br>
+[Energy Metric](https://chatgpt.com/g/g-686fb3183d448191a4f0f8c071c7ea39-energy-metric)
